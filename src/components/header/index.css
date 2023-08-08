@@ -1,0 +1,173 @@
+/* TELAS MÓVEIS PEQUENAS */
+
+@media (min-width: 320px) and (max-width: 767px) {
+
+    .nav-mobile {
+      display: inline-block !important;
+    }
+
+    .nav-big {
+      display: none !important;
+    }
+
+    header {
+        height: 80px !important;
+        
+    }
+
+    .logo-img {
+      width: 80px !important;
+      height: 80px !important;
+    }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+  header {
+    height: 80px !important;
+  }
+
+  .logo-img {
+    width: 80px !important;
+    height: 80px !important;
+  }
+
+  .nav-big-link{
+    font-size: 15px !important;
+  }
+}
+
+/* TELAS MÉDIAS */
+
+/* TELAS GRANDES */
+
+@media screen and (min-width: 1025px) and (max-width: 1440px) {
+  
+}
+
+/* TELAS GRANDES */
+
+/* TELAS EXTRA GRANDES */
+
+@media screen and (min-width: 1441px) {
+  
+}
+
+/* TELAS EXTRA GRANDES */
+
+
+header{
+  position: fixed;
+  top: 0;
+  z-index: 10000000;
+  height: 120px;
+  background-color: white;
+  width: 100%;
+  display: flex;
+  align-items: center ;
+  justify-content: center;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.header-inner{
+  width: 80%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logo-img {
+  width: 120px;
+  height: 120px;
+}
+
+
+.addTransiton{
+  transform: translateX(170px);
+  transition: all 250ms linear 0s;
+}
+.removeTransition{
+  transform: translateX(20px);
+  transition: transform 0.5s ease-in-out;
+}
+
+#sidebar-list{
+  background-image: url('../../images/fale_conosco.png');
+  height: 50vh;
+  width: 170px;
+  position: absolute;
+  z-index: 2000;
+  right: 0;
+  top: 0;
+  margin-top: 80px;
+  border-radius: 30px;
+}
+
+.nav-big{
+  list-style: none;
+  display: flex;
+  justify-content: space-evenly;
+  width: 80%;
+  font-weight: bold;
+}
+
+.nav-big-link{
+ cursor: pointer;
+ color: #6a6a6a;
+ text-decoration: none !important;
+ font-size: 23px;
+}
+
+.nav-big-link:hover{
+  color: #4F9C8F;
+  transition: color 0.5s ease-in-out;
+}
+
+.nav-small{
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content: space-around;
+  margin: auto;
+  height: 100%;
+  margin-top: 10px;
+  width: 80%;
+}
+.nav-small-link{
+  cursor: pointer;
+  color: black;
+  padding-bottom: 5px;
+}
+
+.circle-burguer-grey {
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  border: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #6a6a6a;
+}
+
+
+.circle-burguer-colored {
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  border: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-image: url('../../images/circle.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+
+.circle-burguer:focus {
+  outline: none;
+}
+
+.nav-mobile {
+  display: none;
+}

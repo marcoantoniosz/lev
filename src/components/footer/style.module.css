@@ -1,0 +1,329 @@
+/* TELAS PEQUENAS MÓVEIS */
+
+@media screen and (min-width: 320px) and (max-width: 374px) {
+  .fieldsetBorder {
+   width: 280px !important;
+   border-radius: 30px !important;
+  }
+  
+  .fieldsetBorder .legendBorder {
+    font-size: 30px !important;
+    font-family: 'Comfortaa';
+    text-align: center;
+    width: auto;
+    padding: 0 10px;
+    color: #A1A1A1;
+    border-bottom: none;
+  }
+  
+  .fieldLegend {
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+      align-content: center;
+      margin-top: 5px !important;
+      margin-bottom: 0px !important;
+  }
+  
+  .fieldLegend p {
+      margin-right: 5px !important;
+      font-family: 'Comfortaa';
+      font-size: 13px !important;
+  }
+  
+  .lev {
+    color: #ABABAB;
+  }
+  
+  .gest {
+      color: #4f9c8f;
+  }
+  
+  .dig {
+      color: #9a30a8;
+  }
+  
+  .consul {
+      color: #2a66ac;
+  }
+  
+  .footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .texts {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 0px !important;
+    margin-bottom: 20px;
+  }
+  
+  .texts p {
+    font-size: 20px !important;
+    width: 300px !important;
+    text-align: center;
+    margin-top: 15px;
+  }
+  
+  .logo {
+    margin-top: 20px;
+  }
+  
+  .wpp span {
+    font-family: 'Comfortaa', cursive;
+  }
+}
+
+/* TELAS PEQUENAS MÓVEIS */
+
+/* TELAS MÉDIAS MÓVEIS */
+@media screen and (min-width: 375px) and (max-width: 424px) {
+  .fieldsetBorder {
+    width: 340px !important;
+    border-radius: 30px !important;
+   }
+   
+   .fieldsetBorder .legendBorder {
+     font-size: 30px !important;
+     font-family: 'Comfortaa';
+     text-align: center;
+     width: auto;
+     padding: 0 10px;
+     color: #A1A1A1;
+     border-bottom: none;
+   }
+   
+   .fieldLegend {
+       display: flex;
+       flex-direction: row;
+       justify-content: center;
+       align-content: center;
+       margin-top: 5px !important;
+       margin-bottom: 0px !important;
+   }
+   
+   .fieldLegend p {
+       margin-right: 5px !important;
+       font-family: 'Comfortaa';
+       font-size: 16px !important;
+   }
+   
+   .lev {
+     color: #ABABAB;
+   }
+   
+   .gest {
+       color: #4f9c8f;
+   }
+   
+   .dig {
+       color: #9a30a8;
+   }
+   
+   .consul {
+       color: #2a66ac;
+   }
+   
+   .footer {
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+     align-items: center;
+   }
+   
+   .texts {
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+     align-items: center;
+     margin-top: 0px !important;
+     margin-bottom: 20px;
+   }
+   
+   .texts p {
+     font-size: 20px !important;
+     width: 300px !important;
+     text-align: center;
+     margin-top: 15px;
+   }
+   
+   .logo {
+     margin-top: 20px;
+   }
+   
+   .wpp span {
+     font-family: 'Comfortaa', cursive;
+   }
+}
+/* TELAS MÉDIAS MÓVEIS */
+
+
+/* TELAS GRANDES MÓVEIS */
+@media screen and (min-width: 425px) and (max-width: 768px) {
+  .fieldsetBorder {
+    width: 350px !important;
+    border-radius: 30px !important;
+   }
+   
+   .fieldsetBorder .legendBorder {
+     font-size: 30px !important;
+     font-family: 'Comfortaa';
+     text-align: center;
+     width: auto;
+     padding: 0 10px;
+     color: #A1A1A1;
+     border-bottom: none;
+   }
+   
+   .fieldLegend {
+       display: flex;
+       flex-direction: row;
+       justify-content: center;
+       align-content: center;
+       margin-top: 5px !important;
+       margin-bottom: 0px !important;
+   }
+   
+   .fieldLegend p {
+       margin-right: 5px !important;
+       font-family: 'Comfortaa';
+       font-size: 18px !important;
+   }
+   
+   .lev {
+     color: #ABABAB;
+   }
+   
+   .gest {
+       color: #4f9c8f;
+   }
+   
+   .dig {
+       color: #9a30a8;
+   }
+   
+   .consul {
+       color: #2a66ac;
+   }
+   
+   .footer {
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+     align-items: center;
+   }
+   
+   .texts {
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+     align-items: center;
+     margin-top: 0px !important;
+     margin-bottom: 20px;
+   }
+   
+   .texts p {
+     font-size: 20px !important;
+     width: 300px !important;
+     text-align: center;
+     margin-top: 15px;
+   }
+   
+   .logo {
+     margin-top: 20px;
+   }
+   
+   .wpp span {
+     font-family: 'Comfortaa', cursive;
+   }
+}
+/* TELAS GRANDES MÓVEIS */
+
+.fieldsetBorder {
+  border: 2px solid #a1a1a1 !important;
+  padding: 0 1.4em 1.4em 1.4em !important;
+  margin: 0 0 1.5em 0 !important;
+  -webkit-box-shadow: 0px 0px 0px 0px #000;
+  box-shadow: 0px 0px 0px 0px #000;
+ width: 900px;
+ border-radius: 60px;
+}
+
+.fieldsetBorder .legendBorder {
+  font-size: 60px;
+  font-family: 'Comfortaa';
+  text-align: center;
+  width: auto;
+  padding: 0 10px;
+  color: #A1A1A1;
+  border-bottom: none;
+}
+
+.fieldLegend {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-content: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.fieldLegend p {
+    margin-right: 10px;
+    font-family: 'Comfortaa';
+    font-size: 45px;
+}
+
+.lev {
+  color: #ABABAB;
+}
+
+.gest {
+    color: #4f9c8f;
+}
+
+.dig {
+    color: #9a30a8;
+}
+
+.consul {
+    color: #2a66ac;
+}
+
+.footer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.texts {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 0px;
+  margin-bottom: 100px;
+}
+
+.texts p {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 28px;
+  color: #7a7a7a;
+  width: 1080px;
+  text-align: center;
+  margin-top: 30px;
+}
+
+.logo {
+  margin-top: 20px;
+}
+
+.wpp span {
+  font-family: 'Comfortaa', cursive;
+}

@@ -1,0 +1,1201 @@
+/* TELAS MÓVEIS PEQUENAS */
+
+@media screen and (min-width: 320px) and (max-width: 374px) {
+
+  .main {
+  margin-top: 80px !important;
+  }
+
+
+/* TOP BANNER */
+.topBannerDesk {
+display: none !important;
+}
+
+.topBannerMobile {
+display: inline-block !important;
+}
+
+
+
+.topText {
+  top: 23% !important;
+  left: 60% !important;
+}
+
+.ubuntuh2 {
+font-size: 12px !important;
+}
+
+.topText h1 {
+font-size: 52px !important;
+margin-bottom: -5px !important;
+}
+
+.comfortaah2 {
+font-size: 12px !important;
+}
+/* TOP BANNER */
+
+/* CONHEÇA A LEV */
+.about {
+
+margin-top: -30px !important;
+width: 320px !important;
+}
+
+
+.about h1 {
+font-size: 25px !important;
+}
+
+.about p {
+font-size: 15px !important;
+width: 300px !important;
+margin-top: 5px !important;
+padding-left: 20px !important;
+
+}
+
+.aboutCounter {
+flex-direction: column !important;
+}
+/* CONHEÇA A LEV */
+
+/* LEV GESTÃO */
+
+.char1 {
+display: none !important;
+}
+
+.char1Mob {
+display: inline-block !important;
+width: 300px !important;
+margin-top: 0px !important;
+}
+
+.addIcon1 {
+width: 250px !important;
+}
+
+/* LEV GESTÃO */
+
+/* LEV DIGITAL */
+
+.highlight2 {
+border: 1px solid #5D1A66 !important;
+border-radius: 10px !important;
+padding-left: 15px !important;
+}
+
+.addSize {
+width: 89%;
+}
+
+.char2 {
+display: none !important;
+}
+
+.char2Mob {
+display: inline-block !important;
+width: 300px !important;
+margin-top: 0px !important;
+}
+/* LEV DIGITAL */
+
+/* LEV CONSULTORIA */
+
+.char3 {
+display: none !important;
+}
+
+.char3Mob {
+display: inline-block !important;
+width: 300px !important;
+margin-top: 0px !important;
+margin-right: 0px !important;
+}
+
+.addIcon2 {
+width: 250px !important;
+}
+
+
+.spaceIcon2 p {
+font-size: 10px !important;
+width: 80px !important;
+}
+
+/* LEV CONSULTORIA */
+
+/* FEEDBACKS */
+.feedbacks {
+padding-top: 30px !important;
+padding-bottom: 30px !important;
+padding-left: 20px !important;
+padding-right: 20px !important;
+}
+
+.fTitle {
+font-size: 20px !important;
+width: 300px !important;
+margin-bottom: 20px;
+padding-left: 20px !important;
+padding-right: 20px !important;
+}
+
+.fTitle2 {
+font-size: 20px !important;
+width: 300px !important;
+margin-bottom: 20px;
+}
+
+/* FEEDBACKS */
+
+/* HISTÓRIA */
+.history {
+margin-top: 20px !important;
+margin-bottom: 50px !important;
+}
+
+.history h1 {
+
+font-size: 27px !important;
+text-align: center;
+}
+
+.video {
+border-radius: 30px;
+width: 280px !important;
+}
+
+.history p {
+font-size: 16px !important;
+width: 300px !important;
+text-align: center !important;
+}
+/* HISTÓRIA */
+
+/* FALE CONOSCO */
+
+.contact {
+margin-top: 20px !important;
+margin-bottom: 10px !important;
+}
+
+.contact h1 {
+font-size: 30px !important;
+}
+
+.icons {
+width: 300px !important;
+margin-bottom: 20px !important;
+padding-left: 10px !important;
+padding-right: 10px !important;
+}
+
+.icons img {
+width: 45px !important;
+}
+/* FALE CONOSCO */
+
+
+
+}
+
+/* TELAS MÓVEIS PEQUENAS */
+
+/* TELAS MÓVEIS MÉDIAS */
+
+@media screen and (min-width: 375px) and (max-width: 424px) {
+
+.main {
+  margin-top: 80px !important;
+  }
+
+/* TOP BANNER */
+.topBannerDesk {
+  display: none !important;
+}
+
+.topBannerMobile {
+  display: inline-block !important;
+}
+
+.topText {
+  top: 23% !important;
+  left: 60% !important;
+}
+
+.ubuntuh2 {
+font-size: 14px !important;
+}
+
+.topText h1 {
+font-size: 56px !important;
+margin-bottom: -5px !important;
+}
+
+.comfortaah2 {
+font-size: 14px !important;
+}
+/* TOP BANNER */
+
+/* CONHEÇA A LEV */
+.about {
+
+margin-top: -30px !important;
+width: 320px !important;
+}
+
+
+.about h1 {
+font-size: 27px !important;
+}
+
+.about p {
+font-size: 17px !important;
+width: 300px !important;
+margin-top: 5px !important;
+padding-left: 20px !important;
+
+}
+
+.aboutCounter {
+flex-direction: column !important;
+}
+/* CONHEÇA A LEV */
+
+/* LEV GESTÃO */
+
+.char1 {
+display: none !important;
+}
+
+.char1Mob {
+display: inline-block !important;
+width: 300px !important;
+margin-top: 0px !important;
+}
+
+.addIcon1 {
+width: 250px !important;
+}
+
+/* LEV GESTÃO */
+
+/* LEV DIGITAL */
+
+.highlight2 {
+border: 1px solid #5D1A66 !important;
+border-radius: 10px !important;
+padding-left: 15px !important;
+}
+
+.addSize {
+width: 89%;
+}
+
+.char2 {
+display: none !important;
+}
+
+.char2Mob {
+display: inline-block !important;
+width: 300px !important;
+margin-top: 0px !important;
+}
+/* LEV DIGITAL */
+
+/* LEV CONSULTORIA */
+
+.char3 {
+display: none !important;
+}
+.char3Mob {
+display: inline-block !important;
+width: 300px !important;
+margin-top: 0px !important;
+margin-right: 0px !important;
+}
+
+.addIcon2 {
+width: 250px !important;
+}
+
+
+.spaceIcon2 p {
+font-size: 10px !important;
+width: 80px !important;
+}
+
+/* LEV CONSULTORIA */
+
+/* FEEDBACKS */
+.feedbacks {
+padding-top: 30px !important;
+padding-bottom: 30px !important;
+padding-left: 20px !important;
+padding-right: 20px !important;
+}
+
+.fTitle {
+font-size: 20px !important;
+width: 300px !important;
+margin-bottom: 20px;
+padding-left: 20px !important;
+padding-right: 20px !important;
+}
+
+.fTitle2 {
+font-size: 20px !important;
+width: 300px !important;
+margin-bottom: 20px;
+}
+
+/* FEEDBACKS */
+
+/* HISTÓRIA */
+.history {
+margin-top: 20px !important;
+margin-bottom: 50px !important;
+}
+
+.history h1 {
+
+font-size: 30px !important;
+text-align: center;
+}
+
+.video {
+border-radius: 30px;
+width: 300px !important;
+}
+
+.history p {
+font-size: 16px !important;
+width: 300px !important;
+text-align: center !important;
+}
+/* HISTÓRIA */
+
+/* FALE CONOSCO */
+
+.contact {
+margin-bottom: 10px !important;
+}
+
+.contact h1 {
+font-size: 30px !important;
+}
+
+.icons {
+width: 300px !important;
+margin-bottom: 20px !important;
+}
+
+.icons img {
+width: 50px !important;
+}
+/* FALE CONOSCO */
+}
+
+/* TELAS MÓVEIS MÉDIAS */
+
+/* TELAS MÓVEIS GRANDES */
+
+@media screen and (min-width: 425px) and (max-width: 767px) {
+.main {
+  margin-top: 80px !important;
+  }
+
+/* TOP BANNER */
+
+.topBannerDesk {
+  display: none !important;
+}
+
+.topBannerMobile {
+  display: inline-block !important;
+}
+.topText {
+  top: 24% !important;
+  left: 60% !important;
+}
+
+.ubuntuh2 {
+font-size: 15px !important;
+}
+
+.topText h1 {
+font-size: 65px !important;
+margin-bottom: -5px !important;
+}
+
+.comfortaah2 {
+font-size: 15px !important;
+}
+/* TOP BANNER */
+
+/* CONHEÇA A LEV */
+.about {
+
+margin-top: -30px !important;
+width: 320px !important;
+}
+
+
+.about h1 {
+font-size: 30px !important;
+}
+
+.about p {
+font-size: 20px !important;
+width: 380px !important;
+margin-top: 5px !important;
+padding-left: 20px !important;
+
+}
+
+.aboutCounter {
+flex-direction: column !important;
+}
+/* CONHEÇA A LEV */
+
+/* LEV GESTÃO */
+
+.char1 {
+display: none !important;
+}
+.char1Mob {
+display: inline-block !important;
+width: 350px !important;
+margin-top: 0px !important;
+}
+
+.addIcon1 {
+width: 250px !important;
+}
+
+/* LEV GESTÃO */
+
+/* LEV DIGITAL */
+
+.highlight2 {
+border: 1px solid #5D1A66 !important;
+border-radius: 10px !important;
+padding-left: 15px !important;
+}
+
+.addSize {
+width: 89%;
+}
+
+.char2 {
+display: none !important;
+}
+
+.char2Mob {
+display: inline-block !important;
+width: 350px !important;
+margin-top: 0px !important;
+}
+/* LEV DIGITAL */
+
+/* LEV CONSULTORIA */
+
+.char3 {
+display: none !important;
+}
+
+.char3Mob {
+display: inline-block !important;
+width: 350px !important;
+margin-top: 0px !important;
+margin-right: 0px !important;
+}
+
+.addIcon2 {
+width: 250px !important;
+}
+
+
+.spaceIcon2 p {
+font-size: 10px !important;
+width: 80px !important;
+}
+
+/* LEV CONSULTORIA */
+
+/* FEEDBACKS */
+.feedbacks {
+padding-top: 30px !important;
+padding-bottom: 30px !important;
+padding-left: 20px !important;
+padding-right: 20px !important;
+}
+
+.fTitle {
+font-size: 20px !important;
+width: 300px !important;
+margin-bottom: 20px;
+padding-left: 20px !important;
+padding-right: 20px !important;
+}
+
+.fTitle2 {
+font-size: 20px !important;
+width: 300px !important;
+margin-bottom: 20px;
+}
+
+/* FEEDBACKS */
+
+/* HISTÓRIA */
+.history {
+margin-top: 20px !important;
+margin-bottom: 50px !important;
+}
+
+.history h1 {
+
+font-size: 30px !important;
+text-align: center;
+width: 300px !important;
+}
+
+.video {
+border-radius: 30px;
+width: 300px !important;
+}
+
+.history p {
+font-size: 16px !important;
+width: 300px !important;
+text-align: center !important;
+}
+/* HISTÓRIA */
+
+/* FALE CONOSCO */
+
+.contact {
+margin-bottom: 10px !important;
+}
+
+.contact h1 {
+font-size: 30px !important;
+}
+
+.icons {
+width: 300px !important;
+margin-bottom: 20px !important;
+}
+
+.icons img {
+width: 50px !important;
+}
+/* FALE CONOSCO */
+}
+
+/* TELAS MÓVEIS GRANDES */
+
+/* TELAS MÉDIAS */
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+.main {
+  margin-top: 80px !important;
+  }
+
+/* TOP BANNER */
+
+
+.topText {
+  top: 21% !important;
+  left: 53% !important;
+}
+
+.ubuntuh2 {
+font-size: 18px !important;
+}
+
+.topText h1 {
+font-size: 80px !important;
+margin-bottom: -5px !important;
+}
+
+.comfortaah2 {
+font-size: 18px !important;
+}
+/* TOP BANNER */
+
+/* CONHEÇA A LEV */
+.about {
+
+margin-top: -30px !important;
+width: 600px !important;
+}
+
+
+.about h1 {
+font-size: 32px !important;
+}
+
+.about p {
+font-size: 25px !important;
+width: 500px !important;
+margin-top: 5px !important;
+padding-left: 20px !important;
+
+}
+
+.aboutCounter {
+flex-direction: column !important;
+}
+/* CONHEÇA A LEV */
+
+/* LEV GESTÃO */
+
+.char1 {
+display: none !important;
+}
+.char1Mob {
+display: inline-block !important;
+width: 350px !important;
+margin-top: 0px !important;
+}
+
+.addIcon1 {
+width: 250px !important;
+}
+
+/* LEV GESTÃO */
+
+/* LEV DIGITAL */
+
+.highlight2 {
+border: 1px solid #5D1A66 !important;
+border-radius: 10px !important;
+padding-left: 15px !important;
+}
+
+.addSize {
+width: 89%;
+}
+
+.char2 {
+display: none !important;
+}
+
+.char2Mob {
+display: inline-block !important;
+width: 350px !important;
+margin-top: 0px !important;
+}
+/* LEV DIGITAL */
+
+/* LEV CONSULTORIA */
+
+.char3 {
+display: none !important;
+}
+
+.char3Mob {
+display: inline-block !important;
+width: 350px !important;
+margin-top: 0px !important;
+margin-right: 0px !important;
+}
+
+.addIcon2 {
+width: 250px !important;
+}
+
+
+.spaceIcon2 p {
+font-size: 10px !important;
+width: 80px !important;
+}
+
+/* LEV CONSULTORIA */
+
+/* FEEDBACKS */
+.feedbacks {
+padding-top: 30px !important;
+padding-bottom: 30px !important;
+padding-left: 20px !important;
+padding-right: 20px !important;
+}
+
+.fTitle {
+font-size: 20px !important;
+width: 300px !important;
+margin-bottom: 20px;
+padding-left: 20px !important;
+padding-right: 20px !important;
+}
+
+.fTitle2 {
+font-size: 20px !important;
+width: 300px !important;
+margin-bottom: 20px;
+}
+
+/* FEEDBACKS */
+
+/* HISTÓRIA */
+.history {
+margin-top: 20px !important;
+margin-bottom: 50px !important;
+}
+
+.history h1 {
+
+font-size: 30px !important;
+text-align: center;
+width: 300px !important;
+}
+
+.video {
+border-radius: 30px;
+width: 300px !important;
+}
+
+.history p {
+font-size: 16px !important;
+width: 300px !important;
+text-align: center !important;
+}
+/* HISTÓRIA */
+
+/* FALE CONOSCO */
+
+.contact {
+margin-bottom: 10px !important;
+}
+
+.contact h1 {
+font-size: 30px !important;
+}
+
+.icons {
+width: 300px !important;
+margin-bottom: 20px !important;
+}
+
+.icons img {
+width: 50px !important;
+}
+}
+
+/* TELAS MÉDIAS */
+
+/* TELAS GRANDES */
+
+@media screen and (min-width: 1025px) and (max-width: 1440px) {
+
+}
+
+/* TELAS GRANDES */
+
+/* TELAS EXTRA GRANDES */
+
+@media screen and (min-width: 1441px) {
+
+}
+
+/* TELAS EXTRA GRANDES */
+
+
+
+
+.main {
+margin-top: 110px;
+width: 100%;
+}
+
+/* TOP BANNER */
+
+.top {
+position: relative;
+display: inline-block;
+width: 100%;
+height: auto;
+}
+
+.topBannerDesk {
+width: 100%;
+height: auto;
+}
+
+.topBannerMobile {
+display: none;
+width: 100%;
+height: auto;
+}
+
+.topText {
+position: absolute;
+top: 21%;
+left: 53%;
+font-size: 2rem;
+text-align: center;
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+justify-content: flex-start;
+font-weight: 400;
+height: 90%;
+animation: grow 1s ease
+}
+
+.ubuntuh2 {
+font-family: 'Ubuntu', sans-serif;
+font-weight: 400;
+color: #6a6a6a;;
+font-size: 45px;
+}
+
+.topText h1 {
+font-family: 'Comfortaa', cursive;
+font-size: 200px;
+letter-spacing: 1.9px;
+font-weight: 400;
+}
+
+.animatedText {
+background: linear-gradient(-257deg, #9a30a8, #2a66ac, #176154, #4f9c8f);
+text-fill-color: transparent;
+-webkit-background-clip: text;
+background-clip: text;
+-webkit-text-fill-color: transparent;
+background-size: 275% auto;
+animation: textShine 3s ease-in-out infinite alternate;
+margin-bottom: -25px;
+}
+
+@keyframes textShine {
+0% {
+    background-position: 0% 50%;
+}
+
+100% {
+    background-position: 100% 50%;
+}
+}
+
+.comfortaah2 {
+font-family: 'Comfortaa', cursive;
+font-size: 47px;
+color: #4F9C8F;
+font-weight: 400;
+}
+
+/* TOP BANNER */
+
+/* CONHEÇA A LEV */
+
+.about {
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+margin-top: -80px;
+width: 1050px;
+margin-left: auto;
+margin-right: auto;
+}
+
+.aboutText {
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+}
+
+.about h1 {
+font-family: 'Comfortaa', cursive;
+font-size: 60px;
+font-weight: 400;
+}
+
+.about p {
+font-family: 'Ubuntu', sans-serif;
+font-size: 32px;
+color: #7a7a7a;
+width: 1080px;
+text-align: left;
+margin-top: 5px;
+}
+
+.gradientText {
+background: linear-gradient(-257deg, #9a30a8, #2a66ac, #4f9c8f);
+-webkit-background-clip: text;
+background-clip: text;
+-webkit-text-fill-color: transparent;
+text-fill-color: transparent;
+background-size: 100% auto;
+}
+
+.aboutCounter {
+display: flex;
+width: 100%;
+flex-direction: row;
+align-items: center;
+justify-content: space-between;
+margin-bottom: 80px;
+margin-top: -15px;
+}
+
+/* CONHEÇA A LEV */
+
+/* LEV GESTÃO */
+
+.green {
+color: #176154;
+}
+
+.highlight1 {
+border: 2px solid #176154;
+display: flex;
+justify-content: center;
+align-items: center;
+border-radius: 30px;
+}
+
+.char1 {
+position: absolute;
+height: auto;
+width: 550px;
+right: 0;
+top: 0;
+margin-top: 260px;
+}
+
+.char1Mob {
+display: none;
+height: auto;
+}
+
+.addIcon1 {
+width: 670px;
+}
+
+.spaceIcon1 {
+font-family: 'Comfortaa', cursive;
+font-size: 20px;
+margin-top: 5px;
+width: 100px;
+text-align: center;
+}
+
+/* LEV GESTÃO */
+
+/* LEV DIGITAL */
+
+.purple {
+color: #5D1A66;
+}
+
+.highlight2 {
+border: 2px solid #5D1A66;
+display: flex;
+justify-content: center;
+align-items: center;
+border-radius: 20px;
+padding-left: 50px;
+}
+
+.addSize {
+width: 89%;
+}
+
+.char2 {
+position: absolute;
+width: 500px;
+height: auto;
+right: 0;
+top: 0;
+margin-top: 370px;
+}
+
+.char2Mob {
+display: none;
+height: auto;
+}
+
+/* LEV DIGITAL */
+
+/* LEV CONSULTORIA */
+
+.addSize2 {
+width: 70%;
+}
+
+.blue{
+color: #154D8A;
+}
+
+.char3 {
+position: absolute;
+width: 430px;
+height: auto;
+right: 0;
+top: 0;
+margin-top: 230px;
+margin-right: 200px;
+}
+
+.char3Mob {
+display: none;
+height: auto;
+}
+
+.addIcon2 {
+width: 550px;
+flex-wrap: wrap;
+}
+
+.spaceIcon2 {
+font-family: 'Comfortaa', cursive;
+font-size: 14px;
+margin-right: 20px;
+margin-top: 5px;
+margin-bottom: 20px;
+width: 100px;
+text-align: center;
+}
+
+.extraM {
+margin-top: -45px !important;
+}
+
+
+/* LEV CONSULTORIA */
+
+/* FEEDBACKS */
+
+.feedbacks {
+background-image: url('../../images/feedbacks_banner.png');
+background-repeat: no-repeat;
+background-size: cover;
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+padding-top: 60px;
+padding-bottom: 60px;
+}
+
+.fTitle {
+font-family: 'Comfortaa', cursive;
+font-size: 50px;
+font-weight: 400;
+color: #fff;
+width: 600px;
+text-align: center;
+margin-bottom: 45px;
+}
+
+.fTitle2 {
+font-family: 'Comfortaa', cursive;
+font-size: 50px;
+font-weight: 400;
+color: #fff;
+width: 600px;
+text-align: center;
+margin-bottom: 20px;
+margin-top: 60px;
+}
+
+#feedback {
+margin-top: 45px;
+}
+
+/* FEEDBACKS */
+
+/* HISTÓRIA */
+
+.history {
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+margin-top: 60px;
+margin-bottom: 80px;
+}
+
+.history h1 {
+font-family: 'Comfortaa', cursive;
+font-size: 60px;
+font-weight: 400;
+margin-bottom: 30px;
+}
+
+.video {
+border-radius: 30px;
+width: 700px;
+margin-bottom: 30px;
+}
+
+.history p {
+font-family: 'Ubuntu', sans-serif;
+font-size: 30px;
+color: hsl(0, 0%, 48%);
+width: 1050px;
+text-align: left;
+margin-top: 5px;
+margin-bottom: 20px;
+}
+
+/* HISTÓRIA */
+
+/* FALE CONOSCO */
+
+
+.contact {
+background-image: url('../../images/fale_conosco.png');
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+margin-top: -45px !important;
+margin-bottom: 30px;
+}
+
+.contact h1 {
+font-family: 'Comfortaa', cursive;
+font-size: 60px;
+font-weight: 400;
+margin-bottom: 20px;
+padding-top: 20px;
+color: #7a7a7a;
+}
+
+.icons {
+display: flex;
+flex-direction: row;
+align-items: center;
+justify-content: space-between;
+width: 600px;
+margin-bottom: 80px;
+}
+
+.icons img {
+width: 100px;
+height: auto;
+}
+
+/* FALE CONOSCO */
+
+/* ANIMAÇÕES */
+
+@keyframes grow {
+from { transform: scale(0); }
+to { transform: scale(1); }
+}
+
+
+/* ANIMAÇÕES */
