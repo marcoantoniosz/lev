@@ -411,6 +411,14 @@ width: 50px !important;
 
 /* TOP BANNER */
 
+.aboutParagraph {
+  display: none !important;
+}
+
+.aboutParagraphMobTab {
+  display: inline-block !important;
+}
+
 .topBannerDesk {
   display: none !important;
 }
@@ -450,7 +458,7 @@ font-size: 30px !important;
 }
 
 .about p {
-font-size: 20px !important;
+font-size: 18px !important;
 width: 380px !important;
 margin-top: 5px !important;
 padding-left: 20px !important;
@@ -538,7 +546,7 @@ padding-right: 20px !important;
 .fTitle {
 font-size: 20px !important;
 width: 300px !important;
-margin-bottom: 20px;
+margin-bottom: 20px !important;
 padding-left: 20px !important;
 padding-right: 20px !important;
 }
@@ -547,6 +555,7 @@ padding-right: 20px !important;
 font-size: 20px !important;
 width: 300px !important;
 margin-bottom: 20px;
+margin-top:  20px !important;
 }
 
 /* FEEDBACKS */
@@ -656,12 +665,12 @@ flex-direction: column !important;
 /* LEV GESTÃO */
 
 .char1 {
-display: none !important;
+display: inline-block !important;
+width: 270px !important;
+top: -23.5% !important;
 }
 .char1Mob {
-display: inline-block !important;
-width: 350px !important;
-margin-top: 0px !important;
+display: none !important;
 }
 
 .addIcon1 {
@@ -683,27 +692,27 @@ width: 89%;
 }
 
 .char2 {
-display: none !important;
+display: inline-block !important;
+width: 250px !important;
+top: -31.5% !important;
 }
 
 .char2Mob {
-display: inline-block !important;
-width: 350px !important;
-margin-top: 0px !important;
+display: none !important;
 }
 /* LEV DIGITAL */
 
 /* LEV CONSULTORIA */
 
 .char3 {
-display: none !important;
+display: inline block !important;
+width: 250px !important;
+top: -25% !important;
+left: 62% !important;
 }
 
 .char3Mob {
-display: inline-block !important;
-width: 350px !important;
-margin-top: 0px !important;
-margin-right: 0px !important;
+display: none !important;
 }
 
 .addIcon2 {
@@ -727,24 +736,25 @@ padding-right: 20px !important;
 }
 
 .fTitle {
-font-size: 20px !important;
-width: 300px !important;
-margin-bottom: 20px;
+font-size: 30px !important;
+width: 500px !important;
+margin-bottom: 20px !important;
 padding-left: 20px !important;
 padding-right: 20px !important;
 }
 
 .fTitle2 {
-font-size: 20px !important;
+font-size: 30px !important;
 width: 300px !important;
-margin-bottom: 20px;
+margin-bottom: 20px !important;
+margin-top: 20px !important;
 }
 
 /* FEEDBACKS */
 
 /* HISTÓRIA */
 .history {
-margin-top: 20px !important;
+margin-top: 50px !important;
 margin-bottom: 50px !important;
 }
 
@@ -752,17 +762,17 @@ margin-bottom: 50px !important;
 
 font-size: 30px !important;
 text-align: center;
-width: 300px !important;
+width: 500px !important;
 }
 
 .video {
 border-radius: 30px;
-width: 300px !important;
+width: 370px !important;
 }
 
 .history p {
-font-size: 16px !important;
-width: 300px !important;
+font-size: 20px !important;
+width: 500px !important;
 text-align: center !important;
 }
 /* HISTÓRIA */
@@ -778,12 +788,12 @@ font-size: 30px !important;
 }
 
 .icons {
-width: 300px !important;
+width: 400px !important;
 margin-bottom: 20px !important;
 }
 
 .icons img {
-width: 50px !important;
+width: 70px !important;
 }
 }
 
@@ -791,8 +801,191 @@ width: 50px !important;
 
 /* TELAS GRANDES */
 
-@media screen and (min-width: 1025px) and (max-width: 1440px) {
-
+@media screen and (min-width: 1024px) and (max-width: 1440px) {
+  .main {
+    margin-top: 120px !important;
+    }
+  
+  /* TOP BANNER */
+  
+  
+  .topText {
+    top: 21% !important;
+    left: 53% !important;
+  }
+  
+  .ubuntuh2 {
+  font-size: 26px !important;
+  }
+  
+  .topText h1 {
+  font-size: 102px !important;
+  margin-bottom: -5px !important;
+  }
+  
+  .comfortaah2 {
+  font-size: 26px !important;
+  }
+  /* TOP BANNER */
+  
+  /* CONHEÇA A LEV */
+  .about {
+  
+  margin-top: -50px !important;
+  width: 1200px !important;
+  }
+  
+  
+  .about h1 {
+  font-size: 40px !important;
+  }
+  
+  .about p {
+  font-size: 25px !important;
+  width: 770px !important;
+  margin-top: 5px !important;
+  padding-left: 20px !important;
+  
+  }
+  
+  .aboutCounter {
+  flex-direction: row !important;
+  width: 700px !important;
+  }
+  /* CONHEÇA A LEV */
+  
+  /* LEV GESTÃO */
+  
+  .char1 {
+  display: inline-block !important;
+  width: 270px !important;
+  top: -23.5% !important;
+  }
+  .char1Mob {
+  display: none !important;
+  }
+  
+  .addIcon1 {
+  width: 250px !important;
+  }
+  
+  /* LEV GESTÃO */
+  
+  /* LEV DIGITAL */
+  
+  .highlight2 {
+  border: 1px solid #5D1A66 !important;
+  border-radius: 10px !important;
+  padding-left: 15px !important;
+  }
+  
+  .addSize {
+  width: 89%;
+  }
+  
+  .char2 {
+  display: inline-block !important;
+  width: 250px !important;
+  top: -31.5% !important;
+  }
+  
+  .char2Mob {
+  display: none !important;
+  }
+  /* LEV DIGITAL */
+  
+  /* LEV CONSULTORIA */
+  
+  .char3 {
+  display: inline block !important;
+  width: 250px !important;
+  top: -25% !important;
+  left: 62% !important;
+  }
+  
+  .char3Mob {
+  display: none !important;
+  }
+  
+  .addIcon2 {
+  width: 250px !important;
+  }
+  
+  
+  .spaceIcon2 p {
+  font-size: 10px !important;
+  width: 80px !important;
+  }
+  
+  /* LEV CONSULTORIA */
+  
+  /* FEEDBACKS */
+  .feedbacks {
+  padding-top: 30px !important;
+  padding-bottom: 30px !important;
+  padding-left: 20px !important;
+  padding-right: 20px !important;
+  }
+  
+  .fTitle {
+  font-size: 30px !important;
+  width: 500px !important;
+  margin-bottom: 20px;
+  padding-left: 20px !important;
+  padding-right: 20px !important;
+  }
+  
+  .fTitle2 {
+  font-size: 30px !important;
+  width: 300px !important;
+  margin-bottom: 20px;
+  }
+  
+  /* FEEDBACKS */
+  
+  /* HISTÓRIA */
+  .history {
+  margin-top: 50px !important;
+  margin-bottom: 50px !important;
+  }
+  
+  .history h1 {
+  
+  font-size: 30px !important;
+  text-align: center;
+  width: 500px !important;
+  }
+  
+  .video {
+  border-radius: 30px;
+  width: 370px !important;
+  }
+  
+  .history p {
+  font-size: 20px !important;
+  width: 500px !important;
+  text-align: center !important;
+  }
+  /* HISTÓRIA */
+  
+  /* FALE CONOSCO */
+  
+  .contact {
+  margin-bottom: 10px !important;
+  }
+  
+  .contact h1 {
+  font-size: 30px !important;
+  }
+  
+  .icons {
+  width: 400px !important;
+  margin-bottom: 20px !important;
+  }
+  
+  .icons img {
+  width: 70px !important;
+  }
 }
 
 /* TELAS GRANDES */
@@ -925,6 +1118,14 @@ color: #7a7a7a;
 width: 1080px;
 text-align: left;
 margin-top: 5px;
+}
+
+.aboutParagraph {
+  display: inline-block;
+}
+
+.aboutParagraphMobTab {
+  display: none;
 }
 
 .gradientText {

@@ -13,13 +13,13 @@
 }
 
 /* TELAS GRANDES MÓVEIS */
-@media screen and (min-width: 425px) and (max-width: 768px) {
+@media screen and (min-width: 425px) and (max-width: 767px) {
   .carrousel {
     width: 350px !important;
     height: 100px !important;
   }
   .img {
-    width: 80px;
+    width: 100px;
     height: auto;
     margin-left: 20px;
     margin-right: 100px;
@@ -27,6 +27,19 @@
   }
 }
 /* TELAS GRANDES MÓVEIS */
+
+/* TELAS MÉDIAS */
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+  .carrousel {
+    width: 500px !important;
+    height: 100px !important;
+  }
+  .img {
+    width: 100px;
+    height: auto;
+  }
+}
 
 .carrousel {
   width: 800px;

@@ -16,6 +16,23 @@
 
 }
 
+@media screen and (min-width: 1024px) and (max-width: 1440px) {
+
+  .counters {
+    font-size: 70px !important;
+    margin-bottom: -5px;
+  }
+  
+  .circles {
+    font-size: 14px !important;
+    width: 200px !important;
+    height: 200px !important;
+    margin-top: 35px;
+    font-size: 13px !important;
+  }
+
+}
+
 
 .counters {
   font-size: 120px;

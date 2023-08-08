@@ -111,7 +111,7 @@ export const feedback = [
   {
     img: f1,
     name: 'André Tavares, Fisioterapeuta',
-    text: <p>&quot;Eu fui um dos primeiros clientes da lev; acompanhei como cliente e amigo o crescimento dessa grande empresa. <br />Fui atendido em todas as necessidades profissionais, até <br /> onde eu não imaginei que estava precisando. Hoje, com a <br /> gestão e orientações, aumentei meu faturamento em 45%. <br /> Foi um processo rápido e incisivo. Não foi fácil, porém foi <br /> decisivo na evolução profissional. A lev permitiu ver todo o <br /> meu nicho profissional com outros olhos. Permitiu organizar <br /> a logística de atendimentos, agregar novas ferramentas, <br /> regularizar e colocar no mapa André Tavares fisioterapeuta, <br /> permitindo ser exclusivo e essencial. Obrigado Tiago Martins <br /> e equipe Lev.&quot;</p>
+    text: <p>&quot;Eu fui um dos primeiros clientes da lev; acompanhei como cliente e amigo o crescimento dessa grande empresa. Fui atendido em todas as necessidades profissionais, até  onde eu não imaginei que estava precisando. Hoje, com a  gestão e orientações, aumentei meu faturamento em 45%. Foi um processo rápido e incisivo. Não foi fácil, porém foi  decisivo na evolução profissional. A lev permitiu ver todo o  meu nicho profissional com outros olhos. Permitiu organizar a logística de atendimentos, agregar novas ferramentas, regularizar e colocar no mapa André Tavares fisioterapeuta, permitindo ser exclusivo e essencial. Obrigado Tiago Martins  e equipe Lev.&quot;</p>
   },
   {
     img: f2,

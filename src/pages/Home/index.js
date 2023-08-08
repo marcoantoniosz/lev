@@ -55,13 +55,20 @@ export default function Home() {
         <div className={styles.aboutText}>
           <h1 className={ styles.gradientText }>Conheça a lev</h1>
           <p className={ styles.aboutParagraph }>
-          &quot;O Grupo lev surgiu em 2021 com o intuito de oferecer todos os serviços <br />
+          O Grupo lev surgiu em 2021 com o intuito de oferecer todos os serviços <br />
           e expertise para as empresas de pequeno e médio porte: descomplicando, <br />
           gerando segurança e grandes resultados a partir de estratégias para seus <br />
           clientes com nossas 3 marcas: lev Consultoria, lev Gestão e lev Marketing.
           <br />
           O que acha de ter acesso às melhores estratégias das maiores empresas <br />
-          para o seu negócio?&quot;
+          para o seu negócio?
+          </p><p className={ styles.aboutParagraphMobTab }>
+          O Grupo lev surgiu em 2021 com o intuito de oferecer todos os serviços
+          e expertise para as empresas de pequeno e médio porte: descomplicando,
+          gerando segurança e grandes resultados a partir de estratégias para seus
+          clientes com nossas 3 marcas: lev Consultoria, lev Gestão e lev Marketing.
+          O que acha de ter acesso às melhores estratégias das maiores empresas
+          para o seu negócio?
           </p>
         </div>
         <div className={styles.aboutCounter}>

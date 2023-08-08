@@ -1,10 +1,10 @@
 @media screen and (min-width: 320px) and (max-width: 425px) {
   .container {
-    width: 300px !important;
+    width: 350px !important;
   }
   
   .feedbackItem {
-    width: 300px !important;
+    width: 350px !important;
   }
   
   .feedbackItem img {
@@ -26,9 +26,9 @@
   
   .feedbackItem p {
     color: white;
-    font-size: 16px !important;
+    font-size: 15px !important;
     margin-bottom: 20px !important;
-    width: 300px !important;
+    width: 350px !important;
     margin: 0 auto;
     padding-right: 40px !important;
     padding-left: 20px !important;
@@ -36,7 +36,7 @@
 }
 
 /* TELAS GRANDES MÓVEIS */
-@media screen and (min-width: 426px) and (max-width: 768px) {
+@media screen and (min-width: 426px) and (max-width: 767px) {
   .container {
     width: 300px !important;
   }
@@ -74,6 +74,44 @@
 }
 /* TELAS GRANDES MÓVEIS */
 
+/* TELAS GRANDES */
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+  .container {
+    width: 700px !important;
+  }
+  
+  .feedbackItem {
+    width: 700px !important;
+  }
+  
+  .feedbackItem img {
+    width: 150px !important;
+    height: 150px !important;
+    border-radius: 50%;
+    margin-right: 20px !important;
+  }
+  
+  .feedbackItem h1 {
+    color: white;
+    font-size: 20px !important;
+    margin-top: 10px !important;
+    margin-bottom: 20px !important;
+    text-align: center;
+    padding-left: 20px !important;
+    padding-right: 40px !important;
+  }
+  
+  .feedbackItem p {
+    color: white;
+    font-size: 16px !important;
+    margin-bottom: 20px !important;
+    width: 500px !important;
+    margin: 0 auto;
+    padding-right: 40px !important;
+    padding-left: 20px !important;
+  }
+}
 
 .container {
   margin: 0 auto;

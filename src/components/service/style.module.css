@@ -217,11 +217,10 @@
   .icons {
       display: grid !important;
       grid-template-columns: 1fr 1fr 1fr !important;
-      grid-gap: 5px !important;
+      grid-gap: 0px !important;
       margin-bottom: 20px !important;
       width: 280px !important;
       align-self: flex-start !important;
-      margin-left: 10px;
   }
   
   .icon {
@@ -256,21 +255,21 @@
 
   .main {
     width: 700px !important;
-    margin-top: 10px !important;
-    padding-left: 20px;
+    margin-top: 30px !important;
+    padding-left: 110px;
   }
   
   .title {
-    width: 700px !important;
-    font-size: 30px !important;
+    width: 350px !important;
+    font-size: 20px !important;
     padding-left: 10px !important;
   }
   
   .highlight {
-    width: 700px !important;
-    font-size: 20px !important;
-    padding-top: 5px !important;
-    padding-bottom: 5px !important;
+    width: 320px !important;
+    font-size: 13px !important;
+    padding-top: 10px !important;
+    padding-bottom: 10px !important;
     padding-left: 2px !important;
     padding-right: 2px !important;
     margin-top: 10px !important;
@@ -279,15 +278,15 @@
   }
   
   .description {
-    width: 700px !important;
-    font-size: 20px !important;
+    width: 350px !important;
+    font-size: 14.5px !important;
     margin-bottom: 10px !important;
     padding-left: 10px !important;
   }
   
   .servicos {
     margin-bottom: 10px !important;
-    width: 700px !important;
+    width: 320px !important;
     font-size: 30px !important;
     padding-left: 10px !important;
   }
@@ -306,14 +305,11 @@
       grid-template-columns: 1fr 1fr 1fr !important;
       grid-gap: 5px !important;
       margin-bottom: 20px !important;
-      width: 700px !important;
+      width: 300px !important;
       align-self: flex-start !important;
-      margin-left: 10px;
+      margin-left: -10px;
   }
   
-  .icon {
-    margin-right: -20px !important;
-  }
   
   .icon img {
     width: 60px !important;
@@ -388,6 +384,9 @@
   display: flex;
   flex-direction: column;
   align-items: center;
+}
+
+.bcin {
   animation: bounce-in 2s ease;
 }
 

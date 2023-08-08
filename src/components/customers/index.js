@@ -56,7 +56,7 @@ export default function Customers() {
       items: 2,
       itemsFit: 'contain', 
     },
-    568: { items: 2 },
+    568: { items: 4 },
     1024: { items: 4 },
   };
 
